@@ -4,8 +4,9 @@ This repository is the repository that I did during the course.
 ## About
 This is some text about my project. It is interesting because it answers this question about the universe.
 
-## Team
-So far my team is small - just 1 person, but I'm willing to work with you!
+## New information added to Readme
 
 ## Setup & Requirements
 This project requires a computer and internet.
+
+
