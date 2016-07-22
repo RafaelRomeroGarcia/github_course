@@ -6,6 +6,7 @@ This is some text about my project. It is interesting because it answers this qu
 
 ## New information added to Readme
 ## New information added to Readme2
+## New information added to Readme3
 
 ## Setup & Requirements
 This project requires a computer and internet.
